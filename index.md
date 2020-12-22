@@ -29,5 +29,6 @@ I am Bingkun Yao, a third-year Ph.D. student from Massive Data Computing Researc
 - **Bingkun Yao**, Hong Gao and Jianzhong Li. Multicast Scheduling Algorithms for Battery-Free Wireless Sensor Networks, in IEEE MASS 2019.
 
 ## Awards & Honors
+- CSC Scholarship for study abroad, Chinese Scholarship Council, 2020
 - PhD Fellowship of HIT, 2018
 - Graduate National Scholarship, 2018
