@@ -16,7 +16,7 @@ I am Bingkun Yao, a third-year Ph.D. student from Massive Data Computing Researc
 
 ### EDUCATIONAL BACKGROUND
 
-Bachelor of Engineering, School of Computer Science and Technology, Harbin Institute of Technology 
+## Bachelor of Engineering, School of Computer Science and Technology, Harbin Institute of Technology 
 
 ### Support or Contact
 
