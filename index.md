@@ -19,6 +19,15 @@ I am Bingkun Yao, a third-year Ph.D. student from Massive Data Computing Researc
 ### Bachelor of Engineering, Harbin Institute of Technology, Sep. 2014 - Jun. 2018
 - Major: Computer Science
 
-### Support or Contact
+### Ph.D. Student, Harbin Institute of Technology, 2018.9-present
+- Major: Computer Science
+- Research Fields: Energy-harvesting WSNs
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Publication
+
+- **Bingkun Yao**, Hong Gao, Quan Chen and Jianzhong Li. Energy-Adaptive and Bottleneck-Aware M2M Communication Scheduling for Battery-Free WSNs, IEEE Internet of Things Journal, Accepted,
+- **Bingkun Yao**, Hong Gao and Jianzhong Li. Multicast Scheduling Algorithms for Battery-Free Wireless Sensor Networks, in IEEE MASS 2019.
+
+## Awards & Honors
+- PhD Fellowship of HIT, 2018
+- Graduate National Scholarship, 2018
