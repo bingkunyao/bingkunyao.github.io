@@ -3,7 +3,7 @@
     <td width="75%">
       <h1>Bingkun Yao</h1>
       <p><b>School of Computer Science and Technology, Harbin Institute of Technology</b></p>
-      <p><b>E-mail:bingkunyao@stu.hit.edu.cn</b></p>
+      <p>E-mail:<a href="mailto:bingkunyao@stu.hit.edu.cn">bingkunyao@stu.hit.edu.cn</a></p>
       <p><b>92 West Dazhi Street, Harbin, China</b></p>
     </td>
     <td width="25%">
@@ -25,7 +25,7 @@ I am Bingkun Yao, a third-year Ph.D. student from Massive Data Computing Researc
 
 ## Publication
 
-- **Bingkun Yao**, Hong Gao, Quan Chen and Jianzhong Li. Energy-Adaptive and Bottleneck-Aware M2M Communication Scheduling for Battery-Free WSNs, IEEE Internet of Things Journal, Accepted,
+- **Bingkun Yao**, Hong Gao, Quan Chen and Jianzhong Li. Energy-Adaptive and Bottleneck-Aware Many-to-many Communication Scheduling for Battery-Free WSNs, IEEE Internet of Things Journal, Accepted.
 - **Bingkun Yao**, Hong Gao and Jianzhong Li. Multicast Scheduling Algorithms for Battery-Free Wireless Sensor Networks, in IEEE MASS 2019.
 
 ## Awards & Honors
