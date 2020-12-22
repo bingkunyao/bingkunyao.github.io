@@ -14,9 +14,9 @@
 
 I am Bingkun Yao, a third-year Ph.D. student from Massive Data Computing Research Center, Harbin Institute of Technology. I am supervised by Professor Hong Gao and Professor Jianzhong Li. My research focuses on algorithms for transmission, data collection and in-network data processing in energy-harvesting WSNs. 
 
-### Jekyll Themes
+### EDUCATIONAL BACKGROUND
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bingkunyao/bingkunyao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Bachelor of Engineering, School of Computer Science and Technology, Harbin Institute of Technology 
 
 ### Support or Contact
 
