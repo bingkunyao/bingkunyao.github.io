@@ -14,9 +14,9 @@
 
 I am Bingkun Yao, a third-year Ph.D. student from Massive Data Computing Research Center, Harbin Institute of Technology. I am supervised by Professor Hong Gao and Professor Jianzhong Li. My research focuses on algorithms for transmission, data collection and in-network data processing in energy-harvesting WSNs. 
 
-### EDUCATIONAL BACKGROUND
+## EDUCATIONAL BACKGROUND
 
-## Bachelor of Engineering, School of Computer Science and Technology, Harbin Institute of Technology 
+- Bachelor of Engineering, School of Computer Science and Technology, Harbin Institute of Technology 
 
 ### Support or Contact
 
