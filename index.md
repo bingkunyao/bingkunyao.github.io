@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-I am Bingkun Yao, a third-year Ph.D. student from Massive Data Computing Research Center, Harbin Institute of Technology. I am supervised by Professor Hong Gao and Professor Jianzhong Li. My research focuses on algorithms for transmission, data collection and in-network data processing in energy-harvesting WSNs. 
+I am Bingkun Yao, a fourth-year Ph.D. student from Massive Data Computing Research Center, Harbin Institute of Technology. I am supervised by Professor Hong Gao and Professor Jianzhong Li. My research focuses on algorithms for transmission, data collection and in-network data processing in energy-harvesting WSNs. 
 
 ## Educational Background
 
@@ -24,8 +24,8 @@ I am Bingkun Yao, a third-year Ph.D. student from Massive Data Computing Researc
 - Research Fields: Energy-harvesting WSNs
 
 ## Publication
-
-- **Bingkun Yao**, Hong Gao, Quan Chen and Jianzhong Li. Energy-Adaptive and Bottleneck-Aware Many-to-many Communication Scheduling for Battery-Free WSNs, IEEE Internet of Things Journal, Accepted.
+- **Bingkun Yao**, Hong Gao, Yang Zhang, Jinbao Wang and Jianzhong Li. Maximum AoI Minimization for Target Monitoring in Battery-free Wireless Sensor Networks, IEEE Transactions on Mobile Computing, Accepted.  
+- **Bingkun Yao**, Hong Gao, Quan Chen and Jianzhong Li. Energy-Adaptive and Bottleneck-Aware Many-to-many Communication Scheduling for Battery-Free WSNs, IEEE Internet of Things Journal, 8(10), pp. 8514-8529, 2021.
 - **Bingkun Yao**, Hong Gao and Jianzhong Li. Multicast Scheduling Algorithms for Battery-Free Wireless Sensor Networks, in IEEE MASS 2019.
 
 ## Awards & Honors
