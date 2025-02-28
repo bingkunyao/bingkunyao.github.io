@@ -20,11 +20,11 @@ I am Bingkun Yao, a Postdoc student from Department of Computer Science, City Un
 ### Postdoc student,  City University of Hong Kong,  2024.2-present
 - Research Fields: Large Language Models (LLMs) for Electronic Design Automation (EDA)
 
-## Ph.D. Student,  Harbin Institute of Technology,  2018.9-2023.12
+### Ph.D. Student,  Harbin Institute of Technology,  2018.9-2023.12
 - Major: Computer Science
 - Research Fields: Energy-harvesting WSNs
 
-## Joint Ph.D. Student,  National University of Singapore,  2022.8-2023.8
+### Joint Ph.D. Student,  National University of Singapore,  2022.8-2023.8
 - Major: Computer Science
 
 ### Bachelor of Engineering,  Harbin Institute of Technology,  2014.9 - 2018.6
