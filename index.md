@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-I am Bingkun Yao, a Postdoc student from Department of Computer Science, City University of Hong Kong. I am supervised by Professor [Nan Guan](https://www.cs.cityu.edu.hk/~nanguan/). Prior to this, I received my Ph.D. degree from School of Computer Science and Technology, Harbin Institute of Technology, under the supervision of Professor [Hong Gao](https://mypage.zjnu.edu.cn/gh/zh_CN/index/285516/list/index.htm). During 2022-2023, I was a visiting student at National University of Singapore, where I worked with Professor [Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/). My research focuses on low-power IoTs for natural environment monitoring.
+I am Bingkun Yao, a Postdoc from Department of Computer Science, City University of Hong Kong. I am supervised by Professor [Nan Guan](https://www.cs.cityu.edu.hk/~nanguan/). Prior to this, I received my Ph.D. degree from School of Computer Science and Technology, Harbin Institute of Technology, under the supervision of Professor [Hong Gao](https://mypage.zjnu.edu.cn/gh/zh_CN/index/285516/list/index.htm). During 2022-2023, I was a visiting student at National University of Singapore, where I worked with Professor [Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/). My research focuses on LLM4eda and IoT system design.
 
 
 ## Educational Background
@@ -30,11 +30,11 @@ I am Bingkun Yao, a Postdoc student from Department of Computer Science, City Un
 - Major: Computer Science
 
 ## Publication
-<!-- - **Bingkun Yao**, Ning Wang, Jie Zhou, Xi Wang, Hong Gao, Zhe Jiang and Nan Guan, Location is Key: Leveraging LLM for Functional Bug Localization in Verilog Design, Accepted by DAC 2025.-->
+-**Bingkun Yao**, Ning Wang, Jie Zhou, Xi Wang, Hong Gao, Zhe Jiang and Nan Guan, Location is Key: Leveraging LLM for Functional Bug Localization in Verilog Design, Accepted by DAC 2025.
 - **Bingkun Yao**, Mun Choon Chan, Hong Gao, Zhe Jiang and Nan Guan, Age-of-Information Minimization for Data Aggregation in Energy-Harvesting IoTs, Accepted by DAC 2025.
-<!-- - Jie Zhou, Youshu Ji, Ning Wang, Yuchen Hu, Xinyao Jiao, **Bingkun Yao**, Xinwei Fang, Nan Guan, Shuai Zhao and Zhe Jiang, Insights from Rights and Wrongs: A Large Language Model for Solving Assertion Failures in RTL Design, Accepted by DAC 2025.-->
-- **Bingkun Yao**, Hong Gao, Yang Zhang, Jinbao Wang and Jianzhong Li. Maximum AoI Minimization for Target Monitoring in Battery-free IoTs, IEEE Transactions on Mobile Computing 22 (8), 4754-4772.
-- **Bingkun Yao**, Hong Gao, Quan Chen and Jianzhong Li. Energy-Adaptive and Bottleneck-Aware Many-to-many Communication Scheduling for Battery-Free IoTs, IEEE Internet of Things Journal, 8(10), pp. 8514-8529, 2021.
+- Jie Zhou, Youshu Ji, Ning Wang, Yuchen Hu, Xinyao Jiao, **Bingkun Yao**, Xinwei Fang, Nan Guan, Shuai Zhao and Zhe Jiang, Insights from Rights and Wrongs: A Large Language Model for Solving Assertion Failures in RTL Design, Accepted by DAC 2025.
+- **Bingkun Yao**, Hong Gao, Yang Zhang, Jinbao Wang and Jianzhong Li. Maximum AoI Minimization for Target Monitoring in Battery-free WSNs, IEEE Transactions on Mobile Computing 22 (8), 4754-4772.
+- **Bingkun Yao**, Hong Gao, Quan Chen and Jianzhong Li. Energy-Adaptive and Bottleneck-Aware Many-to-many Communication Scheduling for Battery-Free WSNs, IEEE Internet of Things Journal, 8(10), pp. 8514-8529, 2021.
 - **Bingkun Yao**, Hong Gao and Jianzhong Li. Multicast Scheduling Algorithms for Battery-Free IoTs, in IEEE MASS 2019.
 
 ## Awards & Honors
