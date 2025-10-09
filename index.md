@@ -33,6 +33,7 @@ I am Bingkun Yao, a Postdoc from Department of Computer Science, City University
 - **Bingkun Yao**, Ning Wang, Jie Zhou, Xi Wang, Hong Gao, Zhe Jiang and Nan Guan, Location is Key: Leveraging LLM for Functional Bug Localization in Verilog Design, Accepted by DAC 2025.
 - **Bingkun Yao**, Mun Choon Chan, Hong Gao, Zhe Jiang and Nan Guan, Age-of-Information Minimization for Data Aggregation in Energy-Harvesting IoTs, Accepted by DAC 2025.
 - Jie Zhou, Youshu Ji, Ning Wang, Yuchen Hu, Xinyao Jiao, **Bingkun Yao**, Xinwei Fang, Nan Guan, Shuai Zhao and Zhe Jiang, Insights from Rights and Wrongs: A Large Language Model for Solving Assertion Failures in RTL Design, Accepted by DAC 2025.
+- **Bingkun Yao**, Hong Gao, Yang Zhang, Dongjing Miao, Quan Chen and Jianzhong Li. Minimizing the AoI for Pull-Based Target-Level Data Collection in Energy-Harvesting IoTs, IEEE Transactions on Mobile Computing, Accepted, 2025.
 - Ning Wang, **Bingkun Yao**, Jie Zhou, Xi Wang, Zhe Jiang and Nan Guan, Large Language Model for Verilog Generation with Code-Structure-Guided Reinforcement Learning, Accepted by LAD 2025.
 - Ning Wang, **Bingkun Yao**, Jie Zhou, Xi Wang, Zhe Jiang and Nan Guan, VeriDebug: A Unified LLM for Verilog Debugging via Contrastive Embedding and Guided Correction, Accepted by LAD 2025.
 - **Bingkun Yao**, Hong Gao, Yang Zhang, Jinbao Wang and Jianzhong Li. Maximum AoI Minimization for Target Monitoring in Battery-free WSNs, IEEE Transactions on Mobile Computing 22 (8), 4754-4772.
