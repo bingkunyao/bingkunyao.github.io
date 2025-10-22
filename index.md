@@ -1,4 +1,4 @@
-<table border="0">
+<table>
   <tr>
     <td width="75%">
       <h1>Bingkun Yao</h1>
