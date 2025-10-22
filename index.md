@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ea922312-0446-4f1a-96d3-6d7cfc4d7876)<table border="0">
+<table border="0">
   <tr>
     <td width="75%">
       <h1>Bingkun Yao</h1>
