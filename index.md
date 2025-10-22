@@ -1,4 +1,4 @@
-
+<table>
   <tr>
     <td width="75%">
       <h1>Bingkun Yao</h1>
@@ -10,7 +10,7 @@
       <img src="/ybk.jpg" width="100%">      
     </td>
   </tr>
-
+</table>
 
 I am Bingkun Yao, a Postdoc from Department of Computer Science, City University of Hong Kong. I am supervised by Professor [Nan Guan](https://www.cs.cityu.edu.hk/~nanguan/). Prior to this, I received my Ph.D. degree from School of Computer Science and Technology, Harbin Institute of Technology, under the supervision of Professor [Hong Gao](https://mypage.zjnu.edu.cn/gh/zh_CN/index/285516/list/index.htm). During 2022-2023, I was a visiting student at National University of Singapore, where I worked with Professor [Mun Choon Chan](https://www.comp.nus.edu.sg/~chanmc/). My research focuses on LLM4eda and IoT system design.
 
