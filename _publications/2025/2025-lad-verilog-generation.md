@@ -1,6 +1,6 @@
 ---
 title:          "Large Language Model for Verilog Generation with Code-Structure-Guided Reinforcement Learning"
-date:           2025-02-01 00:02:00 +0800
+date:           2025-05-01 00:02:00 +0800
 selected:       false
 pub:            "IEEE/ACM Proceedings of LAD (Language-Assisted Design)"
 pub_date:       "2025"

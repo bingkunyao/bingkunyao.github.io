@@ -1,6 +1,6 @@
 ---
 title:          "VeriDebug: A Unified LLM for Verilog Debugging via Contrastive Embedding and Guided Correction"
-date:           2025-03-01 00:03:00 +0800
+date:           2025-06-01 00:03:00 +0800
 selected:       false
 pub:            "IEEE/ACM Proceedings of LAD (Language-Assisted Design)"
 pub_date:       "2025"

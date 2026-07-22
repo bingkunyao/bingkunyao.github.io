@@ -1,6 +1,6 @@
 ---
 title:          "CircuitDiff: Bridging Netlist Knowledge with RTL based on Graph Denoising Diffusion"
-date:           2026-03-01 00:03:00 +0800
+date:           2026-10-01 00:03:00 +0800
 selected:       false
 pub:            "Design Automation Conference (DAC)"
 pub_date:       "2026"

@@ -1,6 +1,6 @@
 ---
 title:          "ChatFCM: Comprehension-Synthesis Decoupling for LLM-Based Functional Coverage Model Generation"
-date:           2026-04-01 00:05:00 +0800
+date:           2026-09-01 00:05:00 +0800
 selected:       false
 pub:            "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)"
 pub_date:       "2026"
