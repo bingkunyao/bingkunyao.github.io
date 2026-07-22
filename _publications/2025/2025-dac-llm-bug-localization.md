@@ -7,7 +7,7 @@ pub_date:       "2025"
 abstract: >-
   A large language model based approach for localizing functional bugs in Verilog hardware designs.
 authors:
-  - Bingkun Yao*
+  - Bingkun Yao
   - Ning Wang
   - Jie Zhou
   - Xi Wang

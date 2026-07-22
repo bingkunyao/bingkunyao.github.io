@@ -7,7 +7,7 @@ pub_date:       "2025"
 abstract: >-
   Minimizing the age of information for data aggregation in energy-harvesting IoT networks.
 authors:
-  - Bingkun Yao*
+  - Bingkun Yao
   - Mun Choon Chan
   - Hong Gao
   - Zhe Jiang
