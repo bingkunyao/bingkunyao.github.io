@@ -4,11 +4,11 @@ navbar_name: "Bingkun Yao"
 
 positions:
 - name: Postdoctoral Researcher
-- name: Department of Computer Science, City University of Hong Kong
-  # logo: /assets/images/badges/CityU.png  # Optional: add CityU logo if available
+- name: Department of Computer Science, The Chinese University of Hong Kong
+  # logo: /assets/images/badges/CUHK.png  # Optional: add CUHK logo if available
 
 
-email: "bingkun.yao@cityu.edu.cn"
+email: "bingkunyao@cuhk.edu.hk"
 # cv_link: link-to-your-cv-file
 # gscholar:  # Fill in your Google Scholar ID if you want to enable the link
 # github:   # Fill in your GitHub username if you want to enable the link
@@ -22,19 +22,19 @@ email: "bingkun.yao@cityu.edu.cn"
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Postdoctoral Researcher in the <a href="https://www.cs.cityu.edu.hk/" target="_blank">Department of Computer Science</a> at <a href="https://www.cityu.edu.hk/" target="_blank">City University of Hong Kong</a>, supervised by Professor <a href="https://www.cs.cityu.edu.hk/~nanguan/" target="_blank">Nan Guan</a>.
+    I am a Postdoctoral Researcher in the Department of Computer Science at <a href="https://www.cuhk.edu.hk/english/" target="_blank">The Chinese University of Hong Kong</a>, supervised by Professor <a href="https://www.cs.cityu.edu.hk/~nanguan/" target="_blank">Nan Guan</a>.
   </p>
   <p>
     Prior to this, I received my Ph.D. degree from the School of Computer Science and Technology, <a href="https://en.hit.edu.cn/" target="_blank">Harbin Institute of Technology</a>, under the supervision of Professor <a href="https://mypage.zjnu.edu.cn/gh/zh_CN/index/285516/list/index.htm" target="_blank">Hong Gao</a>. During 2022&ndash;2023, I was a visiting student at the <a href="https://www.nus.edu.sg/" target="_blank">National University of Singapore</a>, where I worked with Professor <a href="https://www.comp.nus.edu.sg/~chanmc/" target="_blank">Mun Choon Chan</a>. My research focuses on <strong>LLM4EDA</strong> (Large Language Models for Electronic Design Automation) and <strong>IoT system design</strong>.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/portrait.gif
 portrait_caption: >-
-  Replace this with your photo at assets/images/photos/portrait.jpg.
+  Bingkun Yao
 
 education:
-- name: City University of Hong Kong
-  # logo: /assets/images/badges/CityU.png
+- name: The Chinese University of Hong Kong
+  # logo: /assets/images/badges/CUHK.png
   position: >-
     Department of Computer Science <br/>
     Postdoctoral Researcher
