@@ -5,7 +5,7 @@ selected:       false
 pub:            "IEEE/ACM International Conference on Codesign of Embedded Systems (CODES)"
 pub_date:       "2026"
 abstract: >-
-  Runtime-adaptive inference depth for efficient vision-language-action models in autonomous driving.
+  Automated repair of Verilog designs via semantic partitioning.
 authors:
   - Bingkun Yao
   - Ning Wang
