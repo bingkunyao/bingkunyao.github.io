@@ -1,6 +1,6 @@
 ---
 title:          "Location is Key: Leveraging LLM for Functional Bug Localization in Verilog Design"
-date:           2025-06-01 00:01:00 +0800
+date:           2025-10-01 00:01:00 +0800
 selected:       true
 pub:            "ACM/IEEE Design Automation Conference (DAC)"
 pub_date:       "2025"

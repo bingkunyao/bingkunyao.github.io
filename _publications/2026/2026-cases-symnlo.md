@@ -1,6 +1,6 @@
 ---
 title:          "SymNLO: Automated and High-Accuracy Hardware Synthesis for General Nonlinear Operators"
-date:           2026-01-01 00:02:00 +0800
+date:           2026-02-01 00:02:00 +0800
 selected:       false
 pub:            "International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES)"
 pub_date:       "2026"

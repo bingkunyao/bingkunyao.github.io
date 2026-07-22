@@ -1,6 +1,6 @@
 ---
 title:          "Insights from Rights and Wrongs: A Large Language Model for Solving Assertion Failures in RTL Design"
-date:           2025-06-01 00:03:00 +0800
+date:           2025-04-01 00:03:00 +0800
 selected:       false
 pub:            "ACM/IEEE Design Automation Conference (DAC)"
 pub_date:       "2025"
